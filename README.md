@@ -64,7 +64,7 @@ AI/ML Engineer with nearly 5 years of experience designing, training, and deploy
 
 ### 🚀 Featured Work
 
-> Selected projects from my role as an AI Researcher at SaveLife.AI, plus independent work. Full details in my [CV](#) / [LinkedIn](https://linkedin.com/in/urva-latif).
+> Selected projects from my role as an AI Researcher at SaveLife.AI, plus independent work. Full details in my [CV](https://urvalatif.github.io/Urva_Latif_CV_AIML_Engineer.pdf) / [LinkedIn](https://linkedin.com/in/urva-latif).
 
 - **🧠 AI Suite — FDA-Cleared & In-Review Imaging Detection Modules**
   Built and shipped multiple deep learning detection models across the AI Suite product line — including intracranial haemorrhage detection (NeuroICH), mammogram cancer detection (MammoSightAI), chest X-ray abnormality detection (CXRDetectAI), mammographic density classification (DenseViewAI), and CT perfusion/LVO detection (NeuroLVO).
